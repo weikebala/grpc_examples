@@ -1,0 +1,4 @@
+[25-Oct-2022 15:46:20 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Call to a member function getMessage() on null in D:\go\grpc-php\test.php:37
+Stack trace:
+#0 {main}
+  thrown in D:\go\grpc-php\test.php on line 37
